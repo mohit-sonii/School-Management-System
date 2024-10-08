@@ -1,15 +1,17 @@
+
+import React from 'react'
 import type{ Metadata } from "next"
 
 export const metadata:Metadata={
-   title:'Home Page | School Management System',
+   title:'Parents Portal | SMS',
    description:'School Management System Home Page'
 }
 
 
-const Homepage = () => {
+function ParentPage() {
   return (
-    <div className=''>Homepage</div>
+    <div>Parent Page</div>
   )
 }
 
-export default Homepage
+export default ParentPage
