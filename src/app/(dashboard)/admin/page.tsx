@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 import React from 'react'
 
-export const metaData: Metadata = {
+export const metadata: Metadata = {
    title: "Admin Dashboard | SMS",
    description: 'Admin panel'
 }

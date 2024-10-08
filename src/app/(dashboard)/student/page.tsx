@@ -1,7 +1,7 @@
 import type{ Metadata } from "next"
 
 export const metadata:Metadata={
-   title:'Student Portal | SMS',
+   title: "Student Portal | SMS",
    description:'School Management System Student Page'
 }
 
